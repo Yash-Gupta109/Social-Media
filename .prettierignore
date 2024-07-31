@@ -1,0 +1,9 @@
+# this file will tell in which file he do not have to apply prettier
+
+/.vscode
+/node_modules
+./dist
+
+*.env
+.env
+.env.* 
